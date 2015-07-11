@@ -9,13 +9,13 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 a
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
-1. [付费 Apps 推荐列表(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/README.md)
-2. [付费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md)
-3. [免费 Apps 推荐(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/Best-App-Mac-Free.md) - 整理中...
-4. [免费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS-Free.md) - 整理中...
-5. [苹果设备 周边&配件 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Accessories-Apple.md)
-6. [付费 Apps 推荐列表(Android)](https://github.com/hzlzh/Best-App/blob/master/Best-App-Android.md) - 整理中...
-7. [改善生活+提升幸福度物品 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Life-Products.md) - 整理中...
+1. [付费 Apps 推荐列表(Mac OS)](./README.md)
+2. [付费 Apps 推荐列表(iOS & Cydia)](./Best-App-iOS.md)
+3. [免费 Apps 推荐(Mac OS)](./Best-App-Mac-Free.md) - 整理中...
+4. [免费 Apps 推荐列表(iOS & Cydia)](./Best-App-iOS-Free.md) - 整理中...
+5. [苹果设备 周边&配件 推荐列表](./Best-Accessories-Apple.md)
+6. [付费 Apps 推荐列表(Android)](./Best-App-Android.md) - 整理中...
+7. [改善生活+提升幸福度物品 推荐列表](./Best-Life-Products.md) - 整理中...
 
 ====
 
@@ -52,6 +52,7 @@ a
 <a href="#Hazel" name="Hazel">★</a>★★★☆ | [Hazel] | 自动化整理工具 | $28 | [#](http://www.macworld.com/article/1165835/hazel_the_standout_file_organizer_gets_even_smarter.html)
 <a href="#Things" name="Things">★</a>★★★☆ | [Things] | 又一个GTD | $49.99 | [#](http://www.lifehack.org/articles/productivity/battle-of-the-mac-and-ios-productivity-apps-omnifocus-vs-things-2-0.html)
 <a href="#TextExpander" name="TextExpander">★</a>★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | [#](http://mac.appstorm.net/reviews/productivity-review/head-to-head-text-expander-mac-software-compared/)
+<a href="#GhostNote" name="GhostNote">★</a>★★★☆ | [GhostNote] | 基于文件的笔记便签 | $4.99  | [#](http://zhuanlan.zhihu.com/pinapps/19971562)
 <a href="#aText" name="aText">★</a>★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
 <a href="#Devonthink-Pro" name="Devonthink Pro">★</a>★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
 <a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
@@ -101,6 +102,7 @@ a
 <a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款，冰点中 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
 <a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持iOS平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
+<a href="#Paste" name="Paste">★</a>★★   | [Paste] | 高颜值的剪贴板工具 | $5.99 | [#](http://sspai.com/t/7421)
 
 #### 1.2 开发类
 
@@ -124,7 +126,7 @@ a
 <a href="#Cornerstone" name="Cornerstone">★</a>★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://srced.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
 <a href="#Paw" name="Paw">★</a>★★★  | [Paw] | HTTP、REST客户端 | $29.99 | [#](https://luckymarmot.com/paw)
 <a href="#ColorSchemer" name="ColorSchemer">★</a>★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
-<a href="#Sketch" name="Sketch">★</a>★★★  | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $69.99 | [#](http://mac.appstorm.net/reviews/graphics/sketch-2-a-simple-powerful-vector-graphics-app/)
+<a href="#Sketch" name="Sketch">★</a>★★★  | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $99 | [#](http://mac.appstorm.net/reviews/graphics/sketch-2-a-simple-powerful-vector-graphics-app/)
 <a href="#Sparkbox" name="Sparkbox">★</a>★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99 | [#](http://mac.appstorm.net/reviews/productivity-review/keep-your-digital-inspiration-organized-with-sparkbox/)
 <a href="#Frank-DeLoupe" name="Frank-DeLoupe">★</a>★★   | [Frank DeLoupe] | 精美拾色器、可Photoshop联动 | $0.99 | [#](http://mac.appstorm.net/reviews/graphics/frank-deloupe-your-color-picking-friend/)
 <a href="#ColorSnapper" name="ColorSnapper">★</a>★★   | [ColorSnapper] | 屏幕取色，只做一件事，做到极致 | $4.99 | [#](http://mac.appstorm.net/reviews/utilities/colorsnapper-a-slick-simple-color-picker-for-the-mac/)
@@ -206,7 +208,7 @@ a
 
 Released under [MIT] LICENSE
 
-[<< 查看总目录]: https://github.com/hzlzh/Best-App
+[<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
@@ -294,10 +296,11 @@ Released under [MIT] LICENSE
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Calcbot]: http://tapbots.com/software/calcbot/
-[Ember]: https://realmacsoftware.com/ember
+[Ember]: http://realmacsoftware.com/ember
 [Coda]: https://panic.com/coda/
 [Hazel]: http://www.noodlesoft.com/
 [Paw]: https://luckymarmot.com/paw
+[GhostNote]: http://www.ghostnoteapp.com/
 [Byword]: http://metaclassy.com/
 [Cornerstone]: https://www.zennaware.com/cornerstone/
 [Evernote Pro]: https://evernote.com/
@@ -318,3 +321,4 @@ Released under [MIT] LICENSE
 [Atom]: https://atom.io/
 [Keka]: http://www.kekaosx.com/
 [mou.li]: http://mou.li/
+[Paste]: http://pasteapp.me

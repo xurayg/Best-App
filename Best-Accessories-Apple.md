@@ -43,7 +43,8 @@
 <a href="#Zowie-鼠标垫" name="Zowie-鼠标垫">★</a>★★    | [Zowie 鼠标垫] | 粗面版，边缝防磨，电竞级别 | ￥139 | [#](http://www.popgear.net/news/review/20130113_837.htm)
 <a href="#iFixit-工具包" name="iFixit-工具包">★</a>★★    | [iFixit 工具包] | 硬件Geek必备，拆机/DIY好帮手 | ￥430 | [#](http://www.ifixit.com/Store)
 <a href="#mStand-支架" name="mStand-支架">★</a>★★    | [mStand 支架] | 铝质外壳，简约设计 | ￥300 | [#](http://show.smzdm.com/detail/21439)
-<a href="#Belkin-USB扩展" name="Belkin-USB扩展">★</a>★★    | [Belkin USB扩展] | USB Hub | ￥80 | [#](http://www.belkin.com/cn/)
+<a href="#Belkin-USB扩展" name="Belkin-USB扩展">★</a>★★    | [Belkin USB扩展] | USB 扩展 | $20 | [#](http://www.belkin.com/cn/)
+<a href="#Sabrent-USB扩展" name="Sabrent-USB扩展">★</a>★★    | [Sabrent USB扩展] | 4口 USB 3.0 扩展 | ￥80 | [#](http://bbs.feng.com/read-htm-tid-8210592.html)
 <a href="#JM-旋转底座" name="JM-旋转底座">★</a>★★    | [JM 旋转底座] | iMac 旋转底座，不怕被围观设计稿了 | $69 | [#](http://www.just-mobile.com/mac/aludisc.html)
 <a href="#L4-Stand" name="L4-Stand">★</a>★★    | [L4 Stand] | Mac底座，设计简约 | $44.99 | [#](http://laptopstands.productreviewgroup.com/elago-l4-stand-for-laptop-computer-silver-review.html)
 <a href="#Lacie-雷口硬盘" name="Lacie-雷口硬盘">★</a>★★    | [Lacie 移动硬盘] | 高速雷电接口，时尚外观，轻盈材质 | ￥2500 | [#](http://www.macx.cn/thread-2030260-1-1.html)
@@ -106,7 +107,7 @@
 
 Released under [MIT] LICENSE
 
-[<< 查看总目录]: https://github.com/hzlzh/Best-App
+[<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
@@ -126,6 +127,7 @@ Released under [MIT] LICENSE
 [Mad Catz 鼠标]: http://www.saitek.com.cn/ 'Mad Catz(赛钛客) M.M.O 7'
 [iklear 清洁套装]: https://www.klearscreen.com/ 'iklear 清洁套装'
 [HHKB 键盘]: https://elitekeyboards.com/ 'HHKB Pro 2'
+[Sabrent USB扩展]: http://www.sabrent.com/category/usb-hubs/HB-MAC3/
 [Just Mobile 支架]: http://www.just-mobile.com/mac/lazy-couch.html 'Just Mobile Lazy Couch 支架'
 [zefyr2 散热器]: http://www.moshistore.com/
 [Lexar 急速U盘]: http://www.lexar.com/products/lexar-jumpdrive-triton-usb-30-flash-drive
